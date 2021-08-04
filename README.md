@@ -32,7 +32,7 @@ Compile the module
 
 Load module into the Kernel to test
 
-    sudo insmod /usr/src/ltcp_pk3c.ko
+    sudo insmod /usr/src/tcp_pk3c.ko
 
 Check if module is loaded correctly
 
